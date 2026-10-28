@@ -10,7 +10,7 @@ The [three-page interactive report](https://app.powerbi.com/groups/e6426da3-9b36
 2. **Calendar & Day Type:** mean appliance Wh per ten-minute interval by month, with Year → Quarter → Month → Day drill, alongside weekday/weekend means.
 3. **Energy Mix & Peaks:** appliance-versus-lighting donut, high-use interval counts by hour, and a working Day Type slicer that filters both charts.
 
-The report lives in Power BI My workspace and may require the owner's access. Its [PDF export](visuals/home-energy-report.pdf) and public previews below allow anyone to review the visual results.
+A separate [Home Energy KPI Dashboard](https://app.powerbi.com/groups/me/dashboards/86fd84c8-871f-44c1-a9b8-7ca7b63609eb) contains a pinned KPI tile linked to the source report. The report and dashboard live in Power BI My workspace and may require the owner's access. The [PDF export](visuals/home-energy-report.pdf) and public previews below allow anyone to review the visual results.
 
 ![Home energy KPI overview and hourly profile](visuals/page-1.png)
 ![Monthly drill chart and day-type comparison](visuals/page-2.png)
@@ -49,3 +49,4 @@ Power BI CSV source: `https://raw.githubusercontent.com/patelkautilya/home-energ
 ## Source and license
 
 Candanedo, L. (2017). *Appliances Energy Prediction* [Dataset]. UCI Machine Learning Repository. [DOI 10.24432/C5VC8G](https://doi.org/10.24432/C5VC8G). Dataset licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This analysis credits the original source and does not present the single-home observations as representative of all buildings.
+
