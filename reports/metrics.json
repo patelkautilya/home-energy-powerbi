@@ -1,0 +1,21 @@
+{
+  "source_sha256": "2fccf354445d886e7917620b0195db1f3e3e34d5a067a93b844694a4c561255a",
+  "records": 19735,
+  "first_timestamp": "2016-01-11 17:00:00",
+  "last_timestamp": "2016-05-27 18:00:00",
+  "missing_intervals": 0,
+  "complete_days": 136,
+  "partial_days": 2,
+  "appliance_kwh_all_intervals": 1928.01,
+  "lighting_kwh_all_intervals": 75.03,
+  "metered_kwh_all_intervals": 2003.04,
+  "appliance_kwh_full_days": 1907.41,
+  "mean_appliance_wh_per_interval": 97.695,
+  "median_appliance_wh_per_interval": 60.0,
+  "p95_appliance_wh_per_interval": 330.0,
+  "high_use_intervals": 1001,
+  "top_daily_kwh_date": "2016-04-04",
+  "top_daily_kwh": 27.15,
+  "lowest_daily_kwh_date": "2016-01-28",
+  "lowest_daily_kwh": 5.4
+}
